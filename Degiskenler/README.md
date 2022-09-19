@@ -1,1 +1,1 @@
-# Patika C# 101 > Değişkenler ve Veri Tipleri
+# Patika C# 101 - Değişkenler ve Veri Tipleri
