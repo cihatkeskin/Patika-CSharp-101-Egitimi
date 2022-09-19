@@ -16,7 +16,7 @@ namespace Degiskenler
             //Klavyeden aldigimiz veriyi ekrana bastirma 
             Console.WriteLine("Hosgeldin "+name);
 
-            /*byte b = 5; // 1 byte
+            byte b = 5; // 1 byte
             sbyte c = 6; // 1 byte
 
             short s = 5; // 2 byte
@@ -64,7 +64,7 @@ namespace Degiskenler
             int integer3 = integer1 * integer2;
 
             // Boolean
-            bool bool1 = 10>2;*/
+            bool bool1 = 10>2;
 
             // Degisken Donusumleri
             string str20 = "20";
