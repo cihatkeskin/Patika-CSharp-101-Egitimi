@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
 # User-specific files
 *.rsuser
 *.suo
@@ -15,6 +22,8 @@
 
 # Mono auto generated files
 mono_crash.*
+
+
 
 # Build results
 [Dd]ebug/
