@@ -1,0 +1,1 @@
+# Patika C# 101 Eğitimi - Try, Catch, Finally ve Mantıksal Hatalar
