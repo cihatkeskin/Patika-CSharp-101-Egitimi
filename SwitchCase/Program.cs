@@ -5,7 +5,7 @@ namespace SwitchCase
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
             int month = DateTime.Now.Month;
 
             // Expression 
