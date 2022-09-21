@@ -8,8 +8,7 @@ namespace SwitchCase
         {   
             int month = DateTime.Now.Month;
 
-            // Expression 
-
+            // Expression
             switch (month)
             {
                 case 1:
