@@ -1,0 +1,1 @@
+# Patika C# 101 Eğitimi - Algoritma Soruları, Ödev 1
