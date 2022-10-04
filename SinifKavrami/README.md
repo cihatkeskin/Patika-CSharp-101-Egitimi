@@ -1,0 +1,1 @@
+# Patika C# 101 Eğitimi - Sınıf Kavramı: Instance, Field, Property
