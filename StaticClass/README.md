@@ -1,0 +1,1 @@
+# Patika C# 101 Eğitimi - Static Sınıf ve Üyeler
